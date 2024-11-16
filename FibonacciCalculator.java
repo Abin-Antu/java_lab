@@ -63,3 +63,4 @@ public class FibonacciCalculator extends JFrame implements ActionListener {
         new FibonacciCalculator();
     }
 }
+
